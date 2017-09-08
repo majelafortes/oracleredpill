@@ -183,8 +183,8 @@ column index_type      format a20
 column table_name      format a40
 column table_owner     format a10
 column table_type      format a20
-column num_rows        format a20
-column sample_size_mb  format a10
+column num_rows        format 999999999
+column sample_size_mb  format 999999999
 column status          format a10
 column last_analyzed   format a30
 
